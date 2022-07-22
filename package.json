@@ -30,7 +30,7 @@
   ],
   "dependencies": {
     "@ethersproject/address": "^5.0.2",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^3.2.9"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.2-rc.1",
